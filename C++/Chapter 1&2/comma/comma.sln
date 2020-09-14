@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comma", "comma\comma.vcxproj", "{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Debug|x64.ActiveCfg = Debug|x64
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Debug|x64.Build.0 = Debug|x64
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Debug|x86.Build.0 = Debug|Win32
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Release|x64.ActiveCfg = Release|x64
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Release|x64.Build.0 = Release|x64
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Release|x86.ActiveCfg = Release|Win32
+		{A7251BAB-0C56-46E8-833F-4E6B3C603E3C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94AF0B7-FD20-4736-B916-B6D657A2CCFD}
+	EndGlobalSection
+EndGlobal

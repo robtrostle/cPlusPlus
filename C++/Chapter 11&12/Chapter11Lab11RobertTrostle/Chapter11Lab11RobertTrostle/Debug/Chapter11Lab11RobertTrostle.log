@@ -1,0 +1,6 @@
+﻿  Driver.cpp
+E:\C++\Chapter 11&12\Chapter11Lab11RobertTrostle\Chapter11Lab11RobertTrostle\Driver.cpp(4,31): warning C4081: expected ':'; found 'constant'
+  f.cpp
+  g.cpp
+  Generating Code...
+  Chapter11Lab11RobertTrostle.vcxproj -> E:\C++\Chapter 11&12\Chapter11Lab11RobertTrostle\Debug\Chapter11Lab11RobertTrostle.exe

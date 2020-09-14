@@ -1,0 +1,5 @@
+﻿  Chapter3Lab3RobertTrostle.cpp
+E:\C++\Chapter 3&4\Chapter3Lab3RobertTrostle\Chapter3Lab3RobertTrostle\Chapter3Lab3RobertTrostle.cpp(4,31): warning C4081: expected ':'; found 'constant'
+E:\C++\Chapter 3&4\Chapter3Lab3RobertTrostle\Chapter3Lab3RobertTrostle\Chapter3Lab3RobertTrostle.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\Chapter 3&4\Chapter3Lab3RobertTrostle\Chapter3Lab3RobertTrostle\Chapter3Lab3RobertTrostle.cpp(49,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chapter3Lab3RobertTrostle.vcxproj -> E:\C++\Chapter 3&4\Chapter3Lab3RobertTrostle\Debug\Chapter3Lab3RobertTrostle.exe

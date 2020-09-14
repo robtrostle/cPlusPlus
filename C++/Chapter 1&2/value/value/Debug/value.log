@@ -1,0 +1,3 @@
+﻿  value.cpp
+E:\C++\Chapter 1\value\value\value.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  value.vcxproj -> E:\C++\Chapter 1\value\Debug\value.exe

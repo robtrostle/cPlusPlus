@@ -1,0 +1,4 @@
+﻿  Chapter5Lab5RobertTrostle.cpp
+E:\C++\Chapter 5&6\Chapter5Lab5RobertTrostle\Chapter5Lab5RobertTrostle\Chapter5Lab5RobertTrostle.cpp(4,31): warning C4081: expected ':'; found 'constant'
+E:\C++\Chapter 5&6\Chapter5Lab5RobertTrostle\Chapter5Lab5RobertTrostle\Chapter5Lab5RobertTrostle.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter5Lab5RobertTrostle.vcxproj -> E:\C++\Chapter 5&6\Chapter5Lab5RobertTrostle\Debug\Chapter5Lab5RobertTrostle.exe

@@ -1,0 +1,7 @@
+﻿  Driver.cpp
+C:\Users\robtr\source\repos\HelloFromFandG\HelloFromFandG\Driver.cpp(4,31): warning C4081: expected ':'; found 'constant'
+  f.cpp
+  Generating Code...
+f.obj : error LNK2005: "void __cdecl f::hello(void)" (?hello@f@@YAXXZ) already defined in Driver.obj
+g.obj : error LNK2005: "void __cdecl g::hello(void)" (?hello@g@@YAXXZ) already defined in Driver.obj
+C:\Users\robtr\source\repos\HelloFromFandG\Debug\HelloFromFandG.exe : fatal error LNK1169: one or more multiply defined symbols found
